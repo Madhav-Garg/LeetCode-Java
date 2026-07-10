@@ -6,9 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0001-two-sum/) | Easy |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
