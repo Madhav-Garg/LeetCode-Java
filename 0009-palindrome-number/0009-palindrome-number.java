@@ -3,8 +3,8 @@ class Solution {
         if(x<0){
             return false;
         }
-        String original = String.valueOf(x);
-        String rev = new StringBuilder(original).reverse().toString();
-        return original.equals(rev);
+        String num = String.valueOf(x);
+        String rev = new StringBuilder(num).reverse().toString();
+        return num.equals(rev);
     }
 }
