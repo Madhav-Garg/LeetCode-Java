@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
+| [0125-valid-palindrome](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
