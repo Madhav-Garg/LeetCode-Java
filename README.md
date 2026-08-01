@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
 | [0283-move-zeroes](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Prefix Sum
