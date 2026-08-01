@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
@@ -54,10 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
