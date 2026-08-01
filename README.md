@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
