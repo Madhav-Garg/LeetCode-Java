@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
+| [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
+| [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -77,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
