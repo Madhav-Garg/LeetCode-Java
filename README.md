@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
