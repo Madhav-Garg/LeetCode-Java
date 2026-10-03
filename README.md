@@ -43,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0013-roman-to-integer/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
 | [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -102,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
