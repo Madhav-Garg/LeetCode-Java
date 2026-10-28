@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
+| [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Sliding Window
@@ -114,4 +116,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
