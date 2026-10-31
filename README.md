@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0075-sort-colors/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0088-merge-sorted-array/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0085-maximal-rectangle/) | Hard |
 | [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0509-fibonacci-number/) | Easy |
@@ -128,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0322-coin-change/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Madhav-Garg/LeetCode-Java/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
